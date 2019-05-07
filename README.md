@@ -1,3 +1,10 @@
+# Modification
+
+- modified for tensorflow 2.0
+
+
+----
+
 # TF Metrics
 
 [![Build Status](https://travis-ci.org/guillaumegenthial/tf_metrics.svg?branch=master)](https://travis-ci.org/guillaumegenthial/tf_metrics)
